@@ -66,6 +66,7 @@
                     </tbody>
                 </table>
                 <a href="index.php?page_layout=add" class="btn btn-info">Add Employee</a>
+                <a href="index.php?page_layout=hellworld" class="btn btn-danger">Bài tập 3</a>
             </div>
         </div>
     </div>
